@@ -13,9 +13,9 @@ Sou Adryane Fernandes, tenho 20 anos tenho técnico em infórmatica e atualmente
     
 
 - Blibioteca
-![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
+<p><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></p>
 
 
-
+- Contato
 ![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) 
 
