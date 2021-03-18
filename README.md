@@ -14,8 +14,8 @@ Sou Adryane Fernandes, tenho 20 anos, técnica em infórmatica e atualmente sou 
 - ReactJs <img src="https://miro.medium.com/max/500/1*cPh7ujRIfcHAy4kW2ADGOw.png" width="12px" alt="Logo react"/>
 
 ## Ferramentas
-<img src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" width="50px" alt="Logo css3"/>
-<p>VSCode</p>
+<a href="https://code.visualstudio.com/"> <img src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" width="50px" alt="Logo css3"/> </a>
+
 
 
 ## Contato
