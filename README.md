@@ -1,7 +1,7 @@
 # <a href="https://www.linkedin.com/in/adryane-fernandes-146ba01bb/"> Hi, I'm Adryane 👋 </a>
 
 ## Sobre mim
-    <code>Sou Adryane Fernandes, tenho 20 anos e atualmente sou estudante de desenvolvimento <u>full stack</u> pela <a href="https://www.labenu.com.br/?gclid=CjwKCAjw9MuCBhBUEiwAbDZ-7m6lqDlFV8k_Vt6-UatLv5z9Qyek27l5thcVb8VwOQDrusSEl1p9JRoCz3AQAvD_BwE">Labenu</a>. </code>
+    Sou Adryane Fernandes, tenho 20 anos e atualmente sou estudante de desenvolvimento <u>full stack</u> pela Labenu.
 
 ## Habilidades
     - Front-end: 
