@@ -7,9 +7,12 @@
 Sou Adryane Fernandes, tenho 20 anos, técnica em infórmatica e atualmente sou estudante de desenvolvimento full stack pela <a href="https://www.labenu.com.br/?gclid=CjwKCAjw9MuCBhBUEiwAbDZ-7tHY-aajSOirLmg_HLs9-gb4tCAWi90d2DQgimOt_IKHmvUdU21M0BoCrd0QAvD_BwE">Labenu</a>.
 <br />
 
-## Hard Skills
-### Front-end: 
-<p><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+## Habilidades
+- CSS3 <img src="https://img2.gratispng.com/20180420/xwe/kisspng-web-development-cascading-style-sheets-css3-comput-css-5ada20be146fc2.8807141415242446700837.jpg" width="20px" alt="Logo css3"/>
+- HTML5
+- JavaScript
+- ReactJs
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> </p>
     
