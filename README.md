@@ -1,5 +1,4 @@
-<img src="https://image.freepik.com/vetores-gratis/ilustracao-do-conceito-abstrato-do-acampamento-de-programacao-de-computador_335657-3921.jpg![image](https://user-images.githubusercontent.com/76170319/111639690-3bc02300-87da-11eb-9ff3-5e0606f6a64b.png)
-" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
+<img src="https://image.freepik.com/vetores-gratis/linguagens-de-programacao-css-e-html-programacao-de-computadores-codificacao-ti-personagem-de-desenho-animado-de-programador-feminino-software-desenvolvimento-de-sites-ilustracao-em-vetor-conceito-metafora-isolado_335657-2740.jpg" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 # <a href="https://www.linkedin.com/in/adryane-fernandes-146ba01bb/"> Hi, I'm Adryane 👋 </a>
 
