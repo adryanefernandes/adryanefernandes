@@ -4,6 +4,8 @@
 
 ## Sobre mim
 Sou Adryane Fernandes, tenho 20 anos, técnica em infórmatica e atualmente sou estudante de desenvolvimento full stack pela <a href="https://www.labenu.com.br/?gclid=CjwKCAjw9MuCBhBUEiwAbDZ-7tHY-aajSOirLmg_HLs9-gb4tCAWi90d2DQgimOt_IKHmvUdU21M0BoCrd0QAvD_BwE">Labenu</a>.
+<a href="https://www.linkedin.com/in/adryane-fernandes-146ba01bb/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/adryanefernandes"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 <br />
 
 ## Hard Skills
@@ -15,12 +17,7 @@ Sou Adryane Fernandes, tenho 20 anos, técnica em infórmatica e atualmente sou 
 
 - Blibioteca
 <p><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></p>
-<br />
 
-
-## Contato
-<a href="https://www.linkedin.com/in/adryane-fernandes-146ba01bb/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/adryanefernandes"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 
 
