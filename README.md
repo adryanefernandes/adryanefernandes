@@ -5,13 +5,13 @@
 ## Sobre mim
    Sou Adryane Fernandes, tenho 20 anos tenho técnico em infórmatica e atualmente sou estudante de desenvolvimento full stack pela Labenu.
 
-## Habilidades
-    - Front-end: 
+## Hard Skills
+   - Front-end: 
     [x] Html
     [x] Css
     [x] JavaScript
 
-    - Blibioteca
+   - Blibioteca
     [x] ReactJs
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adryanefernandes&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
