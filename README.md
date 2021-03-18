@@ -8,7 +8,7 @@ Sou Adryane Fernandes, tenho 20 anos, técnica em infórmatica e atualmente sou 
 <br />
 
 ## Habilidades
-- CSS3 <img src="https://img2.gratispng.com/20180420/xwe/kisspng-web-development-cascading-style-sheets-css3-comput-css-5ada20be146fc2.8807141415242446700837.jpg" width="20px" alt="Logo css3"/>
+- CSS3 <img src="https://img2.gratispng.com/20180420/xwe/kisspng-web-development-cascading-style-sheets-css3-comput-css-5ada20be146fc2.8807141415242446700837.jpg" width="20px" alt="Logo css3" margin-bottom="-10px"/>
 - HTML5
 - JavaScript
 - ReactJs
