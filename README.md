@@ -16,4 +16,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adryanefernandes&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+## Principai repositórios
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adryanefernandes&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
 
