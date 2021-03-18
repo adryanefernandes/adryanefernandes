@@ -3,7 +3,7 @@
 # <a href="https://www.linkedin.com/in/adryane-fernandes-146ba01bb/"> Hi, I'm Adryane 👋 </a>
 
 ## Sobre mim
-Sou Adryane Fernandes, tenho 20 anos tenho técnico em infórmatica e atualmente sou estudante de desenvolvimento full stack pela Labenu.
+Sou Adryane Fernandes, tenho 20 anos tenho técnico em infórmatica e atualmente sou estudante de desenvolvimento <u>full stack</u> pela <a href="https://www.labenu.com.br/?gclid=CjwKCAjw9MuCBhBUEiwAbDZ-7tHY-aajSOirLmg_HLs9-gb4tCAWi90d2DQgimOt_IKHmvUdU21M0BoCrd0QAvD_BwE">Labenu</a>.
 
 ## Hard Skills
 - Front-end: 
