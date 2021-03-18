@@ -13,6 +13,10 @@ Sou Adryane Fernandes, tenho 20 anos, técnica em infórmatica e atualmente sou 
 - JavaScript <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" width="12px" alt="Logo javascript"/>
 - ReactJs <img src="https://miro.medium.com/max/500/1*cPh7ujRIfcHAy4kW2ADGOw.png" width="12px" alt="Logo react"/>
 
+## Ferramentas
+<img src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" width="50px" alt="Logo css3"/>
+<p>VSCode</p>
+
 
 ## Contato
 <a href="https://www.linkedin.com/in/adryane-fernandes-146ba01bb/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
