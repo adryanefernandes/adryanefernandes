@@ -3,11 +3,11 @@
 # <a href="https://www.linkedin.com/in/adryane-fernandes-146ba01bb/"> Hi, I'm Adryane 👋 </a>
 
 ## Sobre mim
-Sou Adryane Fernandes, tenho 20 anos tenho técnico em infórmatica e atualmente sou estudante de desenvolvimento <u>full stack</u> pela <a href="https://www.labenu.com.br/?gclid=CjwKCAjw9MuCBhBUEiwAbDZ-7tHY-aajSOirLmg_HLs9-gb4tCAWi90d2DQgimOt_IKHmvUdU21M0BoCrd0QAvD_BwE">Labenu</a>.
+Sou Adryane Fernandes, tenho 20 anos tenho técnico em infórmatica e atualmente sou estudante de desenvolvimento full stack pela <a href="https://www.labenu.com.br/?gclid=CjwKCAjw9MuCBhBUEiwAbDZ-7tHY-aajSOirLmg_HLs9-gb4tCAWi90d2DQgimOt_IKHmvUdU21M0BoCrd0QAvD_BwE">Labenu</a>.
 
 ## Hard Skills
 - Front-end: 
-<p>![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+<p><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) </p>
     
