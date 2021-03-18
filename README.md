@@ -4,6 +4,7 @@
 
 ## Sobre mim
 Sou Adryane Fernandes, tenho 20 anos tenho técnico em infórmatica e atualmente sou estudante de desenvolvimento full stack pela <a href="https://www.labenu.com.br/?gclid=CjwKCAjw9MuCBhBUEiwAbDZ-7tHY-aajSOirLmg_HLs9-gb4tCAWi90d2DQgimOt_IKHmvUdU21M0BoCrd0QAvD_BwE">Labenu</a>.
+<br />
 
 ## Hard Skills
 - Front-end: 
@@ -14,6 +15,7 @@ Sou Adryane Fernandes, tenho 20 anos tenho técnico em infórmatica e atualmente
 
 - Blibioteca
 <p><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></p>
+<br />
 
 
 ## Contato
