@@ -4,7 +4,7 @@
 
 
 ## Sobre mim
-Sou Adryane Fernandes, tenho 20 anos, técnica em infórmatica, atualmente sou estudante de desenvolvimento full stack pela <a href="https://www.labenu.com.br/?gclid=CjwKCAjw9MuCBhBUEiwAbDZ-7tHY-aajSOirLmg_HLs9-gb4tCAWi90d2DQgimOt_IKHmvUdU21M0BoCrd0QAvD_BwE">Labenu</a> e caloura em Análise e desenvolvimento de sistemas pela Universidade Estadual da Zona Oeste (UEZO).
+Sou Adryane Fernandes, tenho 20 anos, técnica em infórmatica, desenvolvedora full stack e caloura em Análise e desenvolvimento de sistemas pela Universidade Estadual da Zona Oeste (UEZO).
 <br />
 
 ## Linguagens e bibliotecas
