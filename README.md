@@ -28,8 +28,11 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                                                                                                                                         
 <img src="https://w7.pngwing.com/pngs/28/601/png-transparent-sql-logo-illustration-microsoft-azure-sql-database-microsoft-sql-server-database-blue-text-logo-thumbnail.png"  height="50px" alt="Logo mysql"/>
- 
+  
+ ![Snake animation](https://github.com/adryanefernandes/adryanefernandes/blob/output/github-contribution-grid-snake.svg)
 </div>
+
+
 
 <h3 align="center"> Contato </h3>
 <div align="center">
@@ -37,6 +40,8 @@
   &nbsp;
   <a href="mailto:edryfernandes@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
+
+
 
 
 
