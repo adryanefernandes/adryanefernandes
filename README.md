@@ -29,7 +29,7 @@
                                                                                                                                         
 <img src="https://w7.pngwing.com/pngs/28/601/png-transparent-sql-logo-illustration-microsoft-azure-sql-database-microsoft-sql-server-database-blue-text-logo-thumbnail.png"  height="50px" alt="Logo mysql"/>
   
- ![Snake animation](https://github.com/adryanefernandes/adryanefernandes/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/adryanefernandes/adryanefernandes/blob/output/github-contribution-grid-snake.svg)
 </div>
 
 
