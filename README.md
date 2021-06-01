@@ -11,21 +11,22 @@
 <div align="center"> 
                                                                                                                
 <img src="https://github.com/adryanefernandes/adryanefernandes/blob/main/assets/html-5.svg" height="60px" alt="Logo html5"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                                                                                                                
 <img src="https://github.com/adryanefernandes/adryanefernandes/blob/main/assets/css3.svg" height="60px" margin="auto" alt="Logo css3"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                                                                                                               
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     
+  
 <img src="https://github.com/adryanefernandes/adryanefernandes/blob/main/assets/javascript.svg"  height="60px" alt="Logo javascript"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <img src="https://github.com/adryanefernandes/adryanefernandes/blob/main/assets/react.svg"  height="60px" alt="Logo react"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                                                                                                        
 <img src="https://github.com/adryanefernandes/adryanefernandes/blob/main/assets/nodejs.svg" height="60px"  alt="Logo node.js"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
                                                                                                         
 <img src="https://github.com/adryanefernandes/adryanefernandes/blob/main/assets/typescript.svg" height="60px" alt="Logo typescript"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                                                                                                                                         
 <img src="https://github.com/adryanefernandes/adryanefernandes/blob/main/assets/mysql.svg"  height="60px" alt="Logo mysql"/>
   
