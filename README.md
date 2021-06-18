@@ -4,7 +4,7 @@
 <img min-width="400px" max-width="400px" width="400px" align="right" src="https://github-readme-stats.vercel.app/api?username=adryanefernandes&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 
 <h3> Sobre mim </h3>
-<p>Sou Adryane Fernandes, tenho 20 anos, técnica em infórmatica, desenvolvedora full stack e caloura em Análise e desenvolvimento de sistemas pela Universidade Estadual da Zona Oeste (UEZO).</p>
+<p>Olá, tenho 20 anos, técnica em infórmatica, desenvolvedora full stack e caloura em Análise e desenvolvimento de sistemas pela Universidade Estadual da Zona Oeste (UEZO).</p>
 <br />
 
 <h3 align="center"> Skills </h3>
