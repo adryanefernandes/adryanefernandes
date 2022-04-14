@@ -19,7 +19,7 @@
 <img src="https://github.com/adryanefernandes/adryanefernandes/blob/main/assets/javascript.svg"  height="60px" alt="Logo javascript"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<img src="https://github.com/adryanefernandes/adryanefernandes/blob/main/assets/react.svg"  height="60px" alt="Logo react"/>
+<img src="https://github.com/adryanefernandes/adryanefernandes/blob/main/assets/angular.png"  height="60px" alt="Logo angular"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                                                                                                        
 <img src="https://github.com/adryanefernandes/adryanefernandes/blob/main/assets/nodejs.svg" height="60px"  alt="Logo node.js"/>
@@ -27,8 +27,14 @@
                                                                                                         
 <img src="https://github.com/adryanefernandes/adryanefernandes/blob/main/assets/typescript.svg" height="60px" alt="Logo typescript"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  
+<img src="https://github.com/adryanefernandes/adryanefernandes/blob/main/assets/go.svg" height="50px" alt="Logo golang"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                                                                                                                                         
 <img src="https://github.com/adryanefernandes/adryanefernandes/blob/main/assets/mysql.svg"  height="60px" alt="Logo mysql"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  
+<img src="https://github.com/adryanefernandes/adryanefernandes/blob/main/assets/aws.png"  height="45px" alt="Logo aws"/>
 </div>
 
 
