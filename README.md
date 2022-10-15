@@ -1,52 +1,130 @@
+<h1>Bem-vindo(a) ao meu repositório! :star:</h1>
 
-<h1 href="https://www.linkedin.com/in/adryane-fernandes-146ba01bb/" align="center">:star: Bem-vindo(a) ao meu repositório! :star:</h1>
+<div style="display: flex">
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=adryanefernandes&show_icons=true&theme=radical&include_all_commits=true&count_private=true"
+  />
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=adryanefernandes&layout=compact&langs_count=16&theme=radical"
+  />
+</div>
 
-<img min-width="400px" max-width="400px" width="400px" align="right" src="https://github-readme-stats.vercel.app/api?username=adryanefernandes&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-
-<h3> Sobre mim </h3>
-<p>Olá, tenho 21 anos, técnica em infórmatica, desenvolvedora web e cursando Análise e desenvolvimento de sistemas pela UERJ.</p>
+<h3>Tecnologias</h3>
+<div>
+  <p>Front-end</p>
+  <span>
+    <img
+      width="40px"
+      src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png"
+    />
+  </span>
+  &nbsp;&nbsp;
+  <span>
+    <img
+      width="40px"
+      src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png"
+    />
+  </span>
+  &nbsp;&nbsp;
+  <span>
+    <img
+      width="40px"
+      src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png"
+    />
+  </span>
+  &nbsp;&nbsp;
+  <span>
+    <img
+      width="40px"
+      src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png"
+    />
+  </span>
+  &nbsp;&nbsp;
+  <span>
+    <img
+      width="40px"
+      src="https://user-images.githubusercontent.com/25181517/183890595-779a7e64-3f43-4634-bad2-eceef4e80268.png"
+    />
+  </span>
+  &nbsp;&nbsp;
+  <span>
+    <img
+      width="40px"
+      src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png"
+    />
+  </span>
+  &nbsp;&nbsp;
+</div>
+<br />
+<div>
+  <p>Back-end</p>
+  <span>
+    <img
+      width="40px"
+      src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png"
+    />
+  </span>
+  &nbsp;&nbsp;
+  <span>
+    <img
+      width="40px"
+      src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png"
+    />
+  </span>
+  &nbsp;&nbsp;
+  <span>
+    <img
+      width="40px"
+      src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png"
+    />
+  </span>
+  &nbsp;&nbsp;
+  <span>
+    <img
+      width="40px"
+      src="https://user-images.githubusercontent.com/25181517/187955005-f4ca6f1a-e727-497b-b81b-93fb9726268e.png"
+    />
+  </span>
+  &nbsp;&nbsp;
+  <span>
+    <img
+      width="40px"
+      src="https://user-images.githubusercontent.com/25181517/192149581-88194d20-1a37-4be8-8801-5dc0017ffbbe.png"
+    />
+  </span>
+  &nbsp;&nbsp;
+</div>
+<br />
+<div>
+  <p>Outros</p>
+  <span>
+    <img
+      width="40px"
+      src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png"
+    />
+  </span>
+  &nbsp;&nbsp;
+  <span>
+    <img
+      width="40px"
+      src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png"
+    />
+  </span>
+  &nbsp;&nbsp;
+</div>
 <br />
 
-<h3 align="center"> Skills </h3>
-<div align="center"> 
-                                                                                                               
-<img src="https://github.com/adryanefernandes/adryanefernandes/blob/main/assets/html-5.svg" height="60px" alt="Logo html5"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                                                                                                               
-<img src="https://github.com/adryanefernandes/adryanefernandes/blob/main/assets/css3.svg" height="60px" margin="auto" alt="Logo css3"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     
-  
-<img src="https://github.com/adryanefernandes/adryanefernandes/blob/main/assets/javascript.svg"  height="60px" alt="Logo javascript"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<img src="https://github.com/adryanefernandes/adryanefernandes/blob/main/assets/angular.png"  height="60px" alt="Logo angular"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                                                                                                       
-<img src="https://github.com/adryanefernandes/adryanefernandes/blob/main/assets/nodejs.svg" height="60px"  alt="Logo node.js"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-                                                                                                        
-<img src="https://github.com/adryanefernandes/adryanefernandes/blob/main/assets/typescript.svg" height="60px" alt="Logo typescript"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  
-<img src="https://github.com/adryanefernandes/adryanefernandes/blob/main/assets/go.svg" height="50px" alt="Logo golang"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                                                                                                                                        
-<img src="https://github.com/adryanefernandes/adryanefernandes/blob/main/assets/mysql.svg"  height="60px" alt="Logo mysql"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  
-<img src="https://github.com/adryanefernandes/adryanefernandes/blob/main/assets/aws.png"  height="45px" alt="Logo aws"/>
-</div>
-
-
-
-<h3 align="center"> Contato </h3>
-<div align="center">
-  <a href="https://www.linkedin.com/in/adryane-fernandes-146ba01bb/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<h3>Contato</h3>
+<div>
+  <a href="https://www.linkedin.com/in/adryane-fernandes-146ba01bb/"
+    ><img
+      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+  /></a>
   &nbsp;
-  <a href="mailto:edryfernandes@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:edryfernandes@gmail.com"
+    ><img
+      src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+  /></a>
 </div>
-
-
-
-
-
